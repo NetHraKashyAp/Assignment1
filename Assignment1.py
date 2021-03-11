@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# ### Q1. Write a python program that takes two numbers as the inputs such as X and Yand print the result of X^Y(Xto the power of Y).
+# ## Q1. Write a python program that takes two numbers as the inputs such as X and Yand print the result of X^Y(Xto the power of Y).
 
 # In[3]:
 
@@ -14,7 +14,7 @@ for i in range(y):
 print(result)
 
 
-# ### Q2. Write a program to print the numbers in the list which are divisible by 3.
+# ## Q2. Write a program to print the numbers in the list which are divisible by 3.
 
 # In[2]:
 
